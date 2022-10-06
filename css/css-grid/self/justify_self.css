@@ -1,0 +1,16 @@
+/* ******************************** self ******************************** */
+
+.js_null {
+} 
+.js_s {
+  justify-self: start;
+}
+.js_c {
+  justify-self: center;
+}
+.js_e {
+  justify-self: end;
+}
+.js_h {
+  justify-self: stretch;
+}

@@ -1,0 +1,56 @@
+/* ******************************** items ******************************** */
+
+.pi_null {
+} 
+.pi_s {
+  /*place-items: start start;*/
+  place-items: start;
+}
+.pi_s_c {
+  place-items: start center;
+}
+.pi_s_e {
+  place-items: start end;
+}
+.pi_s_h {
+  place-items: start stretch;
+}
+.pi_c_s {
+  place-items: center start;
+}
+.pi_c {
+  /*place-items: center center;*/
+  place-items: center;
+}
+.pi_c_e {
+  place-items: center end;
+}
+.pi_c_h {
+  place-items: center stretch;
+}
+.pi_e_s {
+  place-items: end start;
+}
+.pi_e_c {
+  place-items: end center;
+}
+.pi_e {
+  /*place-items: end end;*/
+  place-items: end;
+}
+.pi_e_h {
+  place-items: end stretch;
+}
+.pi_h_s {
+  place-items: stretch start;
+}
+.pi_h_c {
+  place-items: stretch center;
+}
+.pi_h_e {
+  place-items: stretch end;
+}
+.pi_h {
+  /*place-items: stretch stretch;*/
+  place-items: stretch;
+}

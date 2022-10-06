@@ -1,0 +1,16 @@
+/* ******************************** items ******************************** */
+
+.as_null {
+} 
+.as_s {
+  align-self: start;
+}
+.as_c {
+  align-self: center;
+}
+.as_e {
+  align-self: end;
+}
+.as_h {
+  align-self: stretch;
+}

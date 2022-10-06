@@ -1,0 +1,16 @@
+/* ******************************** items ******************************** */
+
+.ji_null {
+} 
+.ji_s {
+  justify-items: start;
+}
+.ji_c {
+  justify-items: center;
+}
+.ji_e {
+  justify-items: end;
+}
+.ji_h {
+  justify-items: stretch;
+}

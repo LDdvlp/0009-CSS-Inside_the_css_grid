@@ -1,0 +1,22 @@
+.grid_level_1 {
+  display: grid;
+  height: 1200px;
+  background-color: SteelBlue;
+  border: 3px dashed DarkRed;
+  grid-template-columns: repeat(3, 250px);
+  grid-template-rows: repeat(4, 250px);
+}
+
+.grid_level_2 {
+  display: grid;
+  background-color: DodgerBlue;
+  border: 2px dashed DarkRed;
+  grid-template-columns: repeat(3, 75px);
+  grid-template-rows: repeat(3, 75px);
+}
+
+.self {
+  background-color: CornFlowerBlue;
+  border: 1px dashed DarkRed;
+}
+

@@ -1,0 +1,25 @@
+/* ******************************** content ******************************** */
+
+.jc_null {
+} 
+.jc_s {
+  justify-content: start;
+}
+.jc_c {
+  justify-content: center;
+}
+.jc_e {
+  justify-content: end;
+}
+.jc_h {
+  justify-content: stretch;
+}
+.jc_sa {
+  justify-content: space-around;
+}
+.jc_sb {
+  justify-content: space-between;
+}
+.jc_se {
+  justify-content: space-evenly;
+}

@@ -1,0 +1,59 @@
+/* ******************************** content ******************************** */
+
+.jc_null {
+} 
+.jc_s {
+  justify-content: start;
+}
+.jc_c {
+  justify-content: center;
+}
+.jc_e {
+  justify-content: end;
+}
+.jc_h {
+  justify-content: stretch;
+}
+.jc_sa {
+  justify-content: space-around;
+}
+.jc_sb {
+  justify-content: space-between;
+}
+.jc_se {
+  justify-content: space-evenly;
+}
+
+/* ******************************** items ******************************** */
+
+.ji_null {
+} 
+.ji_s {
+  justify-items: start;
+}
+.ji_c {
+  justify-items: center;
+}
+.ji_e {
+  justify-items: end;
+}
+.ji_h {
+  justify-items: stretch;
+}
+
+/* ******************************** self ******************************** */
+
+.js_null {
+} 
+.js_s {
+  justify-self: start;
+}
+.js_c {
+  justify-self: center;
+}
+.js_e {
+  justify-self: end;
+}
+.js_h {
+  justify-self: stretch;
+}

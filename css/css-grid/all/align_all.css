@@ -1,0 +1,59 @@
+/* ******************************** content ******************************** */
+
+.ac_null {
+} 
+.ac_s {
+  align-content: start;
+}
+.ac_c {
+  align-content: center;
+}
+.ac_e {
+  align-content: end;
+}
+.ac_h {
+  align-content: stretch;
+}
+.ac_sa {
+  align-content: space-around;
+}
+.pc_sb {
+  align-content: space-between;
+}
+.ac_se {
+  align-content: space-evenly;
+}
+
+/* ******************************** items ******************************** */
+
+.ai_null {
+} 
+.ai_s {
+  align-items: start;
+}
+.ai_c {
+  align-items: center;
+}
+.ai_e {
+  align-items: end;
+}
+.ai_h {
+  align-items: stretch;
+}
+
+/* ******************************** self ******************************** */
+
+.as_null {
+} 
+.as_s {
+  align-self: start;
+}
+.as_c {
+  align-self: center;
+}
+.as_e {
+  align-self: end;
+}
+.as_h {
+  align-self: stretch;
+}

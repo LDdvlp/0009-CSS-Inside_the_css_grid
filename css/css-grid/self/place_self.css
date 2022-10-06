@@ -1,0 +1,56 @@
+/* ******************************** self ******************************** */
+
+.ps_null {
+} 
+.ps_s {
+  /*place-self: start start;*/
+  place-self: start;
+}
+.ps_s_c {
+  place-self: start center;
+}
+.ps_s_e {
+  place-self: start end;
+}
+.ps_s_h {
+  place-self: start stretch;
+}  
+.ps_c_s {
+  place-self: center start;
+}
+.ps_c {
+  /*place-self: center center;*/
+  place-self: center;
+}
+.ps_c_e {
+  place-self: center end;
+}
+.ps_c_h {
+  place-self: center stretch;
+}  
+.ps_e_s {
+  place-self: end start;
+}
+.ps_e_c {
+  place-self: end center;
+}
+.ps_e {
+  /*place-self: end end;*/
+  place-self: end;
+}
+.ps_e_h {
+  place-self: end stretch;
+}  
+.ps_h_s {
+  place-self: stretch start;
+}
+.ps_h_c {
+  place-self: stretch center;
+}
+.ps_h_e {
+  place-self: stretch end;
+}
+.ps_h {
+  /*place-self: stretch stretch;*/
+  place-self: stretch;
+}
